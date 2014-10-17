@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[huk:home|Door43 (huk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-huk|d43-huk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-huk/archive/master.zip|d43-huk.zip]]
+
+**Recent Changes**
+{{changes>ns = huk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/huk|Ethnologue data]]
+
